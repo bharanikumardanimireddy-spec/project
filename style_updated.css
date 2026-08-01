@@ -18,7 +18,7 @@ a[href="Advanced_search.html"]
     width: 450px;
     height: 45px;
     border-radius: 25px;
-    border-color: 1px solid  #DFE1E5 ;
+    border: 1px solid  #DFE1E5 ;
 }
 #search-btn,#search-btn2
 {
